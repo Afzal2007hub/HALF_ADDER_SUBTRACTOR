@@ -70,6 +70,8 @@ endmodule
 
 
 #half_subtractor
+
+~~~
 module half_subtractor (
     input  wire a, b,         // Inputs
     output wire diff, borrow  // Outputs
@@ -81,7 +83,7 @@ module half_subtractor (
 
 endmodule
 
-
+~~~
 
 Developed by:MOHAMED AFZAL N RegisterNumber:25013973
 
